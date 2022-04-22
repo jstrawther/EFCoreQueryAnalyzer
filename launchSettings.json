@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "QueryAnalyzer": {
-      "commandName": "Project",
-      "commandLineArgs": "\"C:\\path\\to\\logfile.txt"
-    }
-  }
-}
